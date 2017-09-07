@@ -1,0 +1,24 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name and mode from user and then
+open that file in specified mode.
+
+Description :
+We will "open" sys call to open the file.
+Accept file name and mode from user and open respective file in that specific mode.
+peerror is used for printing the error accordingly.
+NOTE:
+Assuming parameter sequence as follows
+1. file name
+2. Mode
+
+Accepted mode are as follows :
+1. read
+2. write
+3. read&write
+4. trunc
+5. create
