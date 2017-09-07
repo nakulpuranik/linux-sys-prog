@@ -2,7 +2,7 @@ My solutions for Linux system programming.
 
 - [x] 1. Write a program which accept file name from user and open that file.
 
-- [ ] 2. Write a program which accept file name and mode from user and then
+- [x] 2. Write a program which accept file name and mode from user and then
 open that file in specified mode.
 
 - [ ] 3. Write a program which accept file name and on mode and that program
