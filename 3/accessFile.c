@@ -24,7 +24,7 @@ int main(int argc, char *argv[]){
 	}
 
 	//check for the access
-	if (access(argv[1],mode)<1)
+	if (access(argv[1],mode) < 0)
 	{
 		printf("Process can not access input file for %sing purposes \n",argv[2]);
 	}
