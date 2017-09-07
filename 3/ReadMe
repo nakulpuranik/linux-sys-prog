@@ -1,0 +1,25 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name and on mode and that program
+check whether our process can access that file in accepted mode or not.
+
+Description :
+We will "open" sys call to open the file.
+Accept file name and mode from user and open respective file in that specific mode.
+peerror is used for printing the error accordingly.
+we will be using access function to chec the access permission for the opened file.
+NOTE:
+Assuming parameter sequence as follows
+1. file name
+2. Mode
+
+Accepted mode are as follows :
+1. r
+2. w
+3. x
+
+Will print if the file is accessible in that mode.
