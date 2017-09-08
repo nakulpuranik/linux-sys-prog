@@ -1,0 +1,16 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name from user and write string in that file.
+
+Description :
+Will use open system call for openning the specified file, and will use the write system call to write in that file.
+
+NOTE:
+Assuming parameter sequence as follows
+1. file name
+
+Will print the success message.
