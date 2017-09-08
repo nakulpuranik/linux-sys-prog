@@ -1,0 +1,16 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name from user and read whole file.
+
+Description :
+Will use open system call for openning the specified file, and will use the read system call to read file will use standerd 256 byte buffer and  loop it till no data is remaining.
+
+NOTE:
+Assuming parameter sequence as follows
+1. file name
+
+Will print the fetched information from the file.
