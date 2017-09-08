@@ -1,0 +1,17 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name from user and print all
+information about that file.
+
+Description :
+We will "stat" sys call to get the info regarding the file.
+
+NOTE:
+Assuming parameter sequence as follows
+1. file name
+
+Will print all information regarding the file.
