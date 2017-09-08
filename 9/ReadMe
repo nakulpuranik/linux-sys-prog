@@ -1,0 +1,16 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept directory name from user and print all file names and its types from that directory.
+
+Description :
+Will use opendir system call for openning the specified directory, and will use the readdir system call to read in that directory contents.
+
+NOTE:
+Assuming parameter sequence as follows
+1. directory name
+
+Will list all the files containing in the directory.
