@@ -1,0 +1,17 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept directory name and file name from user and check whether that file is present in that directory or not.
+
+Description :
+Accept the directory name file name and search the file name.
+
+NOTE:
+Assuming parameter sequence as follows
+1. Directory Name
+2. file name
+
+Print result accordingly.
