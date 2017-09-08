@@ -5,7 +5,7 @@ My solutions for Linux system programming.
 - [x] 2. Write a program which accept file name and mode from user and then
 open that file in specified mode.
 
-- [ ] 3. Write a program which accept file name and on mode and that program
+- [x] 3. Write a program which accept file name and on mode and that program
 check whether our process can access that file in accepted mode or
 not.
 
