@@ -1,0 +1,17 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept two directory names from user and move all files from source directory to destination directory.
+
+Description :
+Accept the src directory name and dest directory and move the files.
+
+NOTE:
+Assuming parameter sequence as follows
+1. Directory src
+2. Directory dest
+
+Print result accordingly.
