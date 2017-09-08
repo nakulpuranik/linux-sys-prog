@@ -1,0 +1,17 @@
+/**
+*
+*  Linux system programming
+*
+**/
+
+Assignment : Write a program which accept file name and number of bytes from user and read that number of bytes from file.
+
+Description :
+Will use open system call for openning the specified file, and will use the read system call to read the specific byte of data from the file.
+
+NOTE:
+Assuming parameter sequence as follows
+1. file name
+2. Number of bytes to read
+
+Will print the fetched information from the file.
