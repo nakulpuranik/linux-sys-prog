@@ -9,7 +9,7 @@ open that file in specified mode.
 check whether our process can access that file in accepted mode or
 not.
 
-- [ ] 4. Write a program which accept file name from user and print all
+- [x] 4. Write a program which accept file name from user and print all
 information about that file.
 
 - [ ] 5. Write a program which accept file name and number of bytes from
